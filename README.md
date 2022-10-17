@@ -3,7 +3,7 @@ A New Hint to Transportation-Analysis of the NYC Bike Share System
 
 TEAM MEMBERS : 
 
-1. Balachandiran. P (TL)
+1.Balachandiran. P (TL)
 
 2.Inbavanan. R
 
