@@ -1,0 +1,22 @@
+.about{
+    display: flex;
+    justify-content:space-evenly;
+    padding:0% 0% 5% 0%;
+
+}
+
+.about .a1 h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.about .a1 p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+}
+.about .a1{
+    padding:1%;
+}
+.about img{
+    padding:4%;;
+}
+
+

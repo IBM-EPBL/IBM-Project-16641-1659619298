@@ -1,0 +1,21 @@
+.topic{
+    background:rgb(30,20,20);
+    display:flex;
+    color:white;
+}
+.dash{
+    display: flex;
+    justify-content:space-evenly;
+    padding:0% 0% 5% 0%;
+
+}
+.dash .dashp p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+}
+.dash .dashp{
+    padding:1%;
+} 
+.dash img{
+    padding:4%;;
+}

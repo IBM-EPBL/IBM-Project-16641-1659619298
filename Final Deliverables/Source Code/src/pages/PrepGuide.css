@@ -1,0 +1,23 @@
+.story{
+    background:rgb(30,20,20);
+    display:flex;
+    color:white;
+}
+
+.storydef{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+}
+.story1{
+    display: flex;
+    justify-content:space-evenly;
+    padding:0% 0% 5% 0%;
+
+}
+.story1 img{
+    padding:4%;;
+}
+.p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:100px;
+}
